@@ -7,14 +7,14 @@ const MobileProjects = () => {
       name: "Learning Management System",
       description:
         "A Learning Management System (LMS) is a web-based platform designed for online education and training. It enables instructors to create and manage courses, students to enroll and track progress, and admins to oversee user activities. Key features include course management, quizzes, progress tracking, discussion forums, and secure payments.",
-      image: "/pic/Screenshot (25).png",
+      image: "https://res.cloudinary.com/doqvfsc67/image/upload/v1741107837/Screenshot_25_qkmzgj.png",
       tech: ["HTML", "CSS", "JavaScript", "MongoDb"],
     },
     {
       name: "Learning Management System",
       description:
         "A Learning Management System (LMS) is a web-based platform designed for online education and training. It enables instructors to create and manage courses, students to enroll and track progress, and admins to oversee user activities. Key features include course management, quizzes, progress tracking, discussion forums, and secure payments.",
-      image: "/pic/Screenshot (25).png",
+      image: "https://res.cloudinary.com/doqvfsc67/image/upload/v1741107837/Screenshot_25_qkmzgj.png",
       tech: ["HTML", "CSS", "JavaScript", "MongoDb"],
     },
   ];

@@ -43,7 +43,7 @@ const Hero = () => {
               {/* Namaste Hands Animation */}
               <div className="relative w-40 h-40 flex items-center justify-center">
                 <motion.img
-                  src="/pic/left.png" // Left hand PNG
+                  src="https://res.cloudinary.com/doqvfsc67/image/upload/v1741107835/left_gsxdwd.png" // Left hand PNG
                   alt="Left Hand"
                   className="w-20 h-20 absolute brightness-60"
                   initial={{ x: -150, y: 100, rotate: 10, opacity: 0 }}
@@ -51,7 +51,7 @@ const Hero = () => {
                   transition={{ duration: 1, ease: "easeInOut" }}
                 />
                 <motion.img
-                  src="public/pic/—Pngtree—stop hand gesture vector_5374169.png" // Right hand PNG
+                  src="https://res.cloudinary.com/doqvfsc67/image/upload/v1741107835/Pngtree_stop_hand_gesture_vector_5374169_ijp13d.png" // Right hand PNG
                   alt="Right Hand"
                   className="w-20 h-20 absolute brightness-60"
                   initial={{ x: 150, y: 100, rotate: -10, opacity: 0 }}

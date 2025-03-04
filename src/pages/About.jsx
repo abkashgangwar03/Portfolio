@@ -36,7 +36,7 @@ const About = () => {
 
         <img
           className=" rounded-full brightness-80 border outline-1 outline-textcolor shadow-lg shadow-textcolor"
-          src="/pic/mypic.jpg"
+          src="https://res.cloudinary.com/doqvfsc67/image/upload/v1741107837/mypic_hhmf4i.jpg"
           alt="My pic"
           width="280"
         />

@@ -14,7 +14,7 @@ const Expandachivement = () => {
           <img
             className="object-contain brightness-63 h-68 rounded md:ml-4 md:mr-20"
             alt="Project Picture"
-            src="public/pic/Abkash Gangwar Offer Letter_page-0001.jpg"
+            src="https://res.cloudinary.com/doqvfsc67/image/upload/v1741107836/Abkash_Gangwar_Offer_Letter_page-0001_f4wcwq.jpg"
             decoding="async"
             data-nimg="1"
             loading="lazy"
@@ -43,7 +43,7 @@ const Expandachivement = () => {
         <div className=" flex flex-col md:flex-row justify-center gap-7 md:gap-10">
           <div className=" p-2 h-60 outline-1 outline-textcolor brightness-150 bg-neutral-950 shadow-textcolor hover:scale-102 hover:shadow-lg transition-transform duration-300 ease-in-out focus:scale-102 focus:shadow-lg active:scale-102 active:shadow-lg rounded-lg">
             <img
-              src="public/pic/CertificateOfCompletion_Python Essential Training 2022_page-0001.jpg"
+              src="https://res.cloudinary.com/doqvfsc67/image/upload/v1741107836/CertificateOfCompletion_Python_Essential_Training_2022_page-0001_um6et3.jpg"
               alt="Certificate"
               className=" object-cover h-full brightness-65"
               decoding="async"
@@ -53,7 +53,7 @@ const Expandachivement = () => {
           </div>
           <div className=" p-2 h-60 outline-1 outline-textcolor brightness-150 bg-neutral-950 shadow-textcolor hover:scale-102 hover:shadow-lg transition-transform duration-300 ease-in-out focus:scale-102 focus:shadow-lg active:scale-102 active:shadow-lg rounded-lg">
             <img
-              src="public/pic/CertificateOfCompletion_React Essential Training (1)_page-0001.jpg"
+              src="https://res.cloudinary.com/doqvfsc67/image/upload/v1741107836/CertificateOfCompletion_React_Essential_Training_1__page-0001_igyta4.jpg"
               alt="Certificate"
               className=" object-cover h-full w-full brightness-65"
               decoding="async"
